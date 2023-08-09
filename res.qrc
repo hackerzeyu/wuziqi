@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/chess">
+        <file alias="background">C:/Users/lzeyu/Desktop/chessBG.jpg</file>
+        <file alias="wuziqi">C:/Users/lzeyu/Desktop/wuziqi.jpg</file>
+    </qresource>
+</RCC>
